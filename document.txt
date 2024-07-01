@@ -6,3 +6,5 @@ not present which give a syntax error, that's why i store the data in data.json 
 =>filename:store.jsx
 
 3.use apache echart diagram for illustrateting data
+
+4.use react router dom for navigation
