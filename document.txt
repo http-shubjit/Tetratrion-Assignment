@@ -1,3 +1,8 @@
-1.make an api call by given url and store data in data.json file
+1.make an api call by given url and store data in data.json file 
+=>(Unexpected non-whitespace character after JSON at position 234815 because in the response data a "," 
+not present which give a syntax error, that's why i store the data in data.json file)
+
 2.react redux concept use for state management 
+=>filename:store.jsx
+
 3.use apache echart diagram for illustrateting data
